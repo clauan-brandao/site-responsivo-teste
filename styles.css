@@ -1,0 +1,60 @@
+header
+{
+    background-color:#50434f;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: auto;
+    bottom: auto;
+}
+
+body
+{
+    font-family: Arial, sans-serif;
+    margin: auto;
+    background-color:#009e9a;
+}
+
+section
+{
+    background: white;
+    background-color: #006867;
+    padding: 20px;
+    margin: auto;
+    border-radius: 8%;
+}
+
+h1
+{
+    align-items: center;
+    margin-top: 0%;
+}
+
+h2
+{
+    align-items: center;
+    background-color:#b6a6b5;
+    font-size: 100%;
+    margin-right: 50%;
+    margin: auto;
+}
+
+.projetos div
+{
+    background: #eee;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+footer
+{
+    background-color: #c05ec2;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+
+}
